@@ -1,6 +1,6 @@
 # simple-calculator
 
-## Day - 1 / 100 days of code.
+- > Day - 1 / 100 days of code.
 
-### Simple Calculator using HTML/JS only
+- Simple Calculator using HTML/JS only
 
